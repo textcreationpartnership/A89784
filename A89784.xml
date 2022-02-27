@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nutcracker crackt by the Nutt, and the backers cake starke dow: being the vindication of honest men, from the scandalous aspersions of Thomas Bakewell the baker in hanging-sword court neere Fleetestreete Conduite. ... in his learned book called the confutation of the Anabaptists, with a nut-cracker. The which is crackt by the nut against whom it was made, who admonisheth Bakewell to turne to his old trade of bakinge again; and mend his manners therein: ... Thus in this following discourse you shall see the slanderous lyer found out: the fool answered according to his foolishnesse, and the bakers cake starke dow: / by Thomas Nutt.</title>
+            <author>Nutt, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89784</idno>
+            <idno type="STC">Wing N1476</idno>
+            <idno type="STC">Thomason E254_11</idno>
+            <idno type="STC">ESTC R210056</idno>
+            <idno type="EEBO-CITATION">99868889</idno>
+            <idno type="PROQUEST">99868889</idno>
+            <idno type="VID">159165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159165)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E254[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nutcracker crackt by the Nutt, and the backers cake starke dow: being the vindication of honest men, from the scandalous aspersions of Thomas Bakewell the baker in hanging-sword court neere Fleetestreete Conduite. ... in his learned book called the confutation of the Anabaptists, with a nut-cracker. The which is crackt by the nut against whom it was made, who admonisheth Bakewell to turne to his old trade of bakinge again; and mend his manners therein: ... Thus in this following discourse you shall see the slanderous lyer found out: the fool answered according to his foolishnesse, and the bakers cake starke dow: / by Thomas Nutt.</title>
+                  <author>Nutt, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Printed, in the yeare, M DC XLIV. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 3d".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bakewell, Thomas, b. 1618 or 19. --  Confutation of the Anabaptists with a nut-cracker. --  Early works to 1800.</term>
+               <term>Infant baptism. --  Early works to 1800.</term>
+               <term>Anabaptists --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159165:1" rendition="simple:additions"/>
+            <p>THE NUT-CRACKER Crackt by the <hi>Nutt,</hi> And the Backers cake ſtarke Dow: Being the Vindication of honeſt men, from The ſcandalous aſperſions of <hi>Thomas Bakewell</hi> the Baker in hang<g ref="char:EOLhyphen"/>ing-ſword Court neere Fleetſtreete Conduite.</p>
+            <lg>
+               <l>
+                  <hi>Thomas Bakewell</hi> heretofore a Baker,</l>
+               <l>Yet now through want is turnd a Nut-crack maker;</l>
+               <l>Who for abuſing much the word of God,</l>
+               <l>Without repentance cannot eſcape his rod:</l>
+               <l>Whoſe want is not of money nor of learning,</l>
+               <l>But poore ſoule 'tis of ſpirituall diſcerning.</l>
+            </lg>
+            <p>AS You may ſee in his learned book called the confutation of the Anabaptiſts, with a Nut-cracker.</p>
+            <p>THE Which is Crackt by the <hi>Nut</hi> againſt whom it was made, who admoniſheth <hi>Bakewell</hi> to turne to his old trade of Baking again; and mend his manners therein: leſt his falſe Wayte cauſe that trade to fail, as his writing lyes hath ſpoiled his Poetrie, in the which he abuſeth the Word of God, to proove his lyes: As alſo he belyeth the Licencer, to Au<g ref="char:EOLhyphen"/>thorize his book, who denying the ſame faith he never ſaw it till he ſaw it in Print on the <hi>Exchange.</hi>
+            </p>
+            <p>THUS In this following Diſcourſe you ſhall ſee the ſlanderous lyer fouund out: The fool anſwered according to his foo<g ref="char:EOLhyphen"/>liſhneſſe, and the Bakers Cake ſtarke dow:</p>
+            <p>
+               <hi>By Thomas Nutt.</hi>
+            </p>
+            <p>LONDON: Printed, in the Yeare, MDCXLIV.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:159165:2"/>
+            <head>TO THE READER.</head>
+            <p>GEntle Reader if you defire to ſee his learned booke, called the confuta<g ref="char:EOLhyphen"/>tion of Anabaptiſts with a <hi>Nntcracker,</hi> wherein he, as his Father, being a lyer <hi>from the beginning,</hi> Ioh. <hi>8.44.</hi>
+            </p>
+            <p>He taxeth thoſe to be the deſpiſers of government, who most earnestly long and pray for more ſtrict execution of juſtice therein, &amp; in the mean time him ſelf ſo reſisting the Government of God and good Laws, that his heart and brain, his hand and pen, not only unchriſtianly but alſo uncivilly plotteth miſ<g ref="char:EOLunhyphen"/>chiefe and ſetteth abroach lyes. And judge which is eaſieſt numbred, the oun<g ref="char:EOLhyphen"/>ces which his bread wants of waight, or the lies printed in his book, of which whoſoever will have a batch, let them enquire for Mr. <hi>Bakewell</hi> in hang<g ref="char:EOLhyphen"/>ing ſword Court neere Fleeteſtreet Conduite, where I thinke you may have his booke of lies, but firſt read over this following diſcourſe and ſee if I doe not ſlander him with the truth. And perſwade him if he hath done or written truth that he would come to the light, that his deeds may be made manifeſt, that they are wrought in God, <hi>Jo. 3.21.</hi> and mine if it be falſe by the light wil reproved and ſo let the evill doer undergoe the blame, either before honeſt men, godly Magiſtrates or Parliament, which he pleaſe, and if either in my Preface or following matter, it ſhall appear I have wronged him, I will acknowledge it, and to my power give him ſatisfaction. (<hi>Thomas Nutt</hi> in Angel ally in Whitechappel, who in regard of my ſelfe although he libels a<g ref="char:EOLhyphen"/>gainſt me and my booke, would not anſwer him, but being againſt God and his people, although not worth the anſwering, yet I cannot forbeare, but muſt an<g ref="char:EOLhyphen"/>ſwer a foole according to his fooliſhneſſe, <hi>leaſt he be wiſe in his own con<g ref="char:EOLhyphen"/>ceit. Thus if I reprove a ſcorner he will hate me, but if a wiſe man hee will love me.</hi> Pro. <hi>9.8.</hi>
+            </p>
+            <l>
+               <hi>Bakewell</hi> heretofore a baker, and now turned Nut-crack maker,</l>
+            <l>Plaſpheming the word of God in his Nutcrack,</l>
+            <l>Muſt feele his heavie rod upon his back,</l>
+            <l>
+               <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Solomon</hi> ſaith, <hi>A whip for the horſe and a bridle for the aſſe, and a rod for the fooles back.</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159165:2"/>
+            <head>The Nutcracker crackt by the Nutt, being the vindication of honeſt men againſt private aſperſions.</head>
+            <p>ALthough the people of God are commanded to render to no man evill for evill nor rebuke for rebuke, nor to revenge them<g ref="char:EOLhyphen"/>ſelves, nor be overcome of evill, but to overcome evill with good, and although <hi>Solomon</hi> ſaith anſwer not a foole according to his fooliſhneſſe leaſt thou be like him, yet hee ſaith again anſwer a foole according to his fooliſhneſſe leaſt he be wiſe in his own conceit, and for as much as he ſaith, hee that is wiſe in his own conceit there is more hope of a Foole then of him, and again, a foole is wiſer in his own eyes then ſeven men that can render a reaſon, &amp; again ſeeing the natural man diſcerneth not the things that are of God, they being ſpi<g ref="char:EOLhyphen"/>ritually diſcerned. 1 Cor. 2.14 And ſeeing I muſt anſwer a foole accor-to his fooliſhneſſe, leaſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be wiſe in his own conceit. I muſt herein endeavour to walke circumſpectly and overcome thy evill with good.</p>
+            <p>And yet as <hi>Paul</hi> ſaith, 1 <hi>Tim.</hi> 5.20. <hi>Them that ſinne rebuke before all that others may fear.</hi>
+            </p>
+            <p>I am I confeſſe naturally apt to anſwer thee with ſcoffs for thy re<g ref="char:EOLhyphen"/>proaches wherewith thou haſt reproached God which are fallen upon me. But I ſay to thee as <hi>Michaell</hi> the Arch Angell to Satan, <hi>The Lord rebuke thee,</hi> ſo ſay I to thee which art in this action, his Sonne the Lord rebuke thee, for Chriſt denominates the children of the devill by do<g ref="char:EOLhyphen"/>ing his luſts, which was theſe two, firſt a murtherer, 2. a lyer, John 8 44. and <hi>Paul</hi> calleth <hi>Elimas</hi> the childe of the devill becauſe hee per<g ref="char:EOLhyphen"/>verted the ſtrait way of the Lord, as thou here by lying doeſt in the title of thy book. For thou bringeſt the word of God to maintain thy ly, for thou calleſt part of thy booke a Nut cracker for an unnaturall <hi>Nutt,</hi> whoſe ſhell (thou ſaiſt) is as hard as the ſcales of <hi>Leviathan,</hi> and the kernel of his heart as hard as the nether milſtone I pray thee Bake<g ref="char:EOLhyphen"/>well dideſt thou ever ſee my face, or ſeeke to enforme me, if not, how
+<pb facs="tcp:159165:3"/>impudent is this ly of thine, which thou blaſphemouſly bringeſt the ſacred Word of God to prove, <hi>Iob.</hi> 41.15, 24. See I pray thee if that prove thy affirmation, if not, confeſſe thy ly and bee aſhamed of it.</p>
+            <p>And further, I ſay if by Anabaptiſts thou meaneſt Antebaptiſts, that is, oppoſers of the Bap<g ref="char:EOLhyphen"/>tiſme of the Goſpell, let all judge whether thou be not the man for thou maintaining the ſprinkeling of infants, without any warrant from the Law or Goſpell to be the Ordinance of Chriſt, and neglect the dipping beleevers, held out in the whole Tenour of the Goſpell, peculiarly to be the alone Ordinance of Chriſt, and to keepe the poore people in ignorance, the Prieſts being the tranſlators of the Bible, where they ſhould have ſet the Engliſh word Dip, that all might un<g ref="char:EOLhyphen"/>derſtand, they have ſet the Greeke word Baptize, that ſo they keeping the people ignorant might ſprincle infants, pretending it the Ordi<g ref="char:EOLhyphen"/>nance of Chriſt without any Scripture to prove the ſame, and being aſhamed of the name due to your practiſe, namely antebaptiſts, you caſt the aſpertion of that name upon them that practiſe the dipping beleevers according to the Ordinance of Chriſt in the teanour of the Goſpell, as a cunning thiefe being purſued, cryeth among others; ſtop thiefe, ſtop thiefe, to cauſe the people not to ſuſpect him.</p>
+            <p>And further; for as much as thou haſt not one word of God to beare thee out, judge thy ſelf, if thou be not exceeding audacious to ſay that thou haſt fully anſwered in this they libellous booke whatſoever is or can bee ſaid againſt it.</p>
+            <p>So that you conceive although God doth not ſhew mecanick fooles his miſteries, as you ſay my booke teacheth, yet mecannick wiſemen, ſuch as your ſelfe, he doth, and that in ſuch ſort as none can after ar<g ref="char:EOLhyphen"/>gue againſt it but he is already anſwered. Now I ſhall without ſcoffing or deriding thee, as a man who art a wiſe man or elſe thou art deceived, but I think few elſe judge thee ſo, and pittying thee as conſidering thee a poor ignorant ſelfe-conceited man. <hi>Yet I must not hate thee in my heart, but I muſt reprove thee,</hi> Deut. 19. <hi>And that before all that others mny fear.</hi> 1 Tim. 5.20. but any thing thou haſt done againſt me, the Lord lay it not to thy charge, <hi>Act.</hi> 7.</p>
+            <p>Firſt, thou falſly ſaiſt I am an Anabaptiſt, and ſo as I ſaid before, the Thiefe cry ſtop thiefe: and ſecondly, thou ſaiſt, that thou ſuppo<g ref="char:EOLhyphen"/>ſeſt me to be the ſon of the old Mouſe-catcher, who ſome yeers ſince cried Mouſe traps: Doe not thine owne conſcience give thee the lie, for if thou doeſt not ſuppoſe, ſo art thou not a liar, and of thy father ther the Devill, as aforeſaid. And thirdly, thou ſaiſt, I profered ten
+<pb facs="tcp:159165:3"/>pounds to be Hangman, hath thy father aforeſaid prevailed with thee ſo to byely me and my Father, whom thou never knewſt, who neither of us ever attempted to be hangman, no, nor to make a Pillorie for <hi>Bakewell</hi> the falſe baker:</p>
+            <p>Again, thou ſaiſt, that having but little trading for my Axe; I uſe it to cut off men in bodies politicke: What more lies yet? I confeſſe, thou mighteſt not lie ſo willingly as before, for I inſtanced indeed in bodies politick for illuſtration? but thou mayſt ſee that I conclude, that our Saviour ſpeaks there of a ſpirituall bodie, or Church, of vi<g ref="char:EOLhyphen"/>ſible Saints, or ſuch as viſibly appeard ſo to be, which he owns for his viſible Church, and ſearcheth the heart himſelf.</p>
+            <p>Again, thou ſaiſt, I dare not tell what the offence is, leſt I ſhould be hanged, ſee thou wilt imagine lies rather then thou wilt be out of the exerciſe of them: whereas the Reader may ſee I did but ſuppoſe ſuch a thing for illuſtration, as in the <hi>Offending Eye,</hi> pag. 25.</p>
+            <p>Again, as never wearie of lying, thou ſaiſt, that for his being a Ma<g ref="char:EOLhyphen"/>giſtrate, that offending the Anabaptiſts, is that for which I would have him cut off: although he were faithfull to King and State, the which I and thoſe whom thou Antebaptiſt reproachfully calleſt Ana<g ref="char:EOLhyphen"/>baptiſts, do utterly denie and abhorre; and do heartily deſire the exe<g ref="char:EOLhyphen"/>cution of all civill Laws eſtabliſhed by the Word of God, and grieve that the good Laws of <hi>England</hi> are no better executed. And thou further ſaiſt, that I think Magiſtrates ought to be cut off for maintain<g ref="char:EOLhyphen"/>ing the Wars, wherein both Parliament and Magiſtrates will con<g ref="char:EOLhyphen"/>demne thee for a liar, who know that I have uſed my utmoſt endea<g ref="char:EOLhyphen"/>vours to further their deſignes, but indeed, with deſire of as much ſpare of bloud as might lawfully be.</p>
+            <p>Then thou chargeſt me that I ſay that the members of the myſti<g ref="char:EOLhyphen"/>call bodie whereof I uſed not the phraſe muſt be cut off, but I ſhew not the offence, wherefore I anſwer thee, poore ignorant ſoule, that if thou kneweſt what it were to be a member of a Church of Chriſt, thou wouldeſt know that owning and maintaining any ſin againſt God is offence to his true Church, and to every true living member in it. And whereas thou ſaiſt that I would have them cut off for every ſin. I anſwer, the Churches of Chriſts dare not cut off any member till they appeare to be ſuch as Chriſt would have to be cut off name<g ref="char:EOLhyphen"/>ly rotten or unſound ones: which the wilfull owning any knowne fin againſt admonition, denominates any to be. And whereas thou ſaiſt thou wilt rake the hammer of Gods Word, anti-ſpirit my ſhell, and give a farther taſte of the devilliſh kernell that is in me, p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re ſoule, if the Lord would pleaſe to make thee an inſtrument in <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s
+<pb facs="tcp:159165:4"/>hand, to diſcover to me that devilliſhneſſe that is in mee, which yet I ſee not, I hope I ſhould thankfully take notice of my ſin, and praiſe him for thee as his inſtrument, but poore heart thou knoweſt not yet how to handle that hammer to break thine own heart, if thou canſt caſt the beame, or if but a moat out of thine eye, thou ſhalt ſee the cleerer to help thy brother, <hi>Mat.</hi> 7.5. And whereas thou demandeſt of me, if the not cutting off a member from the viſible bodie or Church, cauſe the body to bee caſt into hell. Judge you whether if a foot that carrieth the bodie, or a hand that draws or drives, or an eye that di<g ref="char:EOLhyphen"/>rects the bodie thitherward if it be not cut off, will not bring it thi<g ref="char:EOLhyphen"/>ther. Again, thou ſaiſt, that if Chriſt were on earth again, I would be offended at him, for many were offended at him, it is true; and thou poore ſoul art offended at him, and oppoſeſt his way as truly as <hi>Paul</hi> did when he was going to <hi>Damaſcus,</hi> although thou thinkeſt not ſo, The Lord, if it be his will, ſhew thee himſelfe as he did to him. Then thou affirmeſt, that the meaning of cutting off a member, is the cut<g ref="char:EOLhyphen"/>ting off the corruption of the members: then I conceive, it would be ſaid, Waſh or clenſe thy members, as elſe where, clenſe your ſelves from all filthineſſe of fleſh and ſpirit. 2 Cor. 7.1.</p>
+            <p>But thou affirmeſt, that if wee cannot cut off luſts without the members, we muſt cut off the member, and ſaiſt we ſhall have it at the Reſurrection. I pray thee doth not the Apoſtles ſay, No man ever hated his own fleſh but nouriſhed it, and whereas thou ſaiſt we ſhould be as much offended with the evill of ſin, that is in the eye, as the evill of pain in the tooth: I pray thee co<g ref="char:cmbAbbrStroke">̄</g>ſider, doth not Chriſt ſay that from within, namely, from the heart, comes evill thoughts and luſts, and ſo do not the heart employ the eie, the tongue, the care, the hand, and all to ſerve its turn. And ſo as our Saviour ſaith, An evill man out of the evill treaſury of his heart, bringeth forth: evill things: he doth not ſay, Out of the evill treaſure of his eie, or hand, or foot, but of his heart, and marke thy abſurdity, which poor ſoule thou canſt not ſee: Thou ſaiſt when all means is uſed, &amp; our eie, hand or foot will not be reclamed: we muſt cut them off, or pluck them out rather then employ them to our eternall ruine of bodie and ſoul. Marke, you ſaid even now, if wee could not reclaime them, and now yee ſay wee employ them; then if the fountain fill the channels will it find fault, and cut them off for running, when being filled from it, they cannot ceaſſe running: ſo if the heart employ the eie, hand, and foot, and enforce their acting, and without it they act not good or evill, will or can the
+<pb facs="tcp:159165:4"/>heart cut them off for obeying its command. Again, thou, as never weary of thy lying, chargeſt me that I ſay to Chriſt, if thy hand, foot, or eye offend thee, do ſo and ſo; whereas there is not ſuch a word in my book. Again, where as thou blinde ſoul ſaiſt, I ſpeak of two eyes, two hands, &amp; two feet in his my<g ref="char:EOLhyphen"/>ſticall bodie, and carnally aske which is the right eye, or the right hand, I an<g ref="char:EOLhyphen"/>ſwer thee, pittying thy ignorance, though a body politicke looſe half the mem<g ref="char:EOLhyphen"/>bers, it is a whole body ſtill: As the Corporation of <hi>London,</hi> if there were a 1000 members more it were but a body: ſo if it looſe 2000, it is a compleat body ſtill: although if many of them taken away were eminent, it would ſeem as a maimed body in compariſon of what it was before. And whereas thou ſaiſt, that all the brains in the <hi>Nutt,</hi> knows not how to anſwer thee; I anſwer, if he do know, no thank to him: but whereas thou ſpeakeſt of two eyes in a Church, and ſaiſt if one offend and be excommunicate, and the other die in the mean time, that ſo it leave all blinde. I anſwer thy carnall objection thus: that in a body politick, every member in a greater or leſſer meaſure ſhould execute the office of the eye, hand and foot, and of every other mem<g ref="char:EOLhyphen"/>ber for the good of the body ye may all propheſie one by one that all may learn and all may be comforted, 1 Cor. 14. and ſo ought all to bee helpfull to the body, although the bodie may eſpecially chuſe thoſe beſt gifted. Then thou ſaiſt, Well thus you ſee that Chriſt here ſpeaketh of our naturall mem<g ref="char:EOLhyphen"/>bers but doeſt thou judge ſo, or thinke that any that have any ſpirituall know<g ref="char:EOLhyphen"/>ledge of God do judge it ſo: ſurely if thou doſt it, is becauſe thou feareſt not God, for he revealeth his ſecrets to them that fear him, <hi>Pſ.</hi> 25.14. Again, thou ſaiſt, that a man in grace muſt needs grieve to ſee his members act ſin, I aske thee, whether the heart or ſome other part of the body it be that grieves for thoſe actions of the eye, hand, or foot, if it be the heart: conſider I pray thee, do that grieve that its ſervants do its will, for from it they ſpeak, look, &amp; act: And whereas thou ſaiſt that the Word if, is not a word of diffedence, where it is ſaid? If God be God follow him, I ſay ſo alſo, and never ſaid againſt it, yet I do ſay, it implies if he be not God, do not follow him, and ſo of the reſt, thou bringeſt for that purpoſe. And whereas thou ſaiſt, we ſhould binde our eyes, hands &amp; feet with the cords of a Covenant, and then inſtanceſt, <hi>Iob</hi> 31.1. and ſaiſt, <hi>Iob made a covenant with his eyes not to look on a maid:</hi> whereas hee ſaith no ſuch thing, but ſaith; <hi>I made covenant with mine eyes, why then ſhould I think upon a maid.</hi> Whence I infer, that through grace, he having reſolved againſt acting ſin, through the ſtrength given him of God he is now grieved with himſelf: and implore ſtrength from God againſt the firſt thoughts and motions thereunto. And thus I conceive, he intends, I am by grace reſol<g ref="char:EOLhyphen"/>ved not to commit a luſtfull action with; nor caſt a luſtfull look on a woman: but then why am I yet troubled with the firſt motions and thoughts of it; Lord help me aginſt them alſo, and ſpeaks not of, nor intends any other cove<g ref="char:EOLhyphen"/>nant, as if the heart and the members were at one time different one from the other: for then that body were divided againſt it ſelf; and ſo as a King<g ref="char:EOLhyphen"/>dome divided could not ſtand, <hi>Mat.</hi> 12.25. &amp; ſo there needs no tying together with the cords of a Covenant, as you affirme. Then, as never weary of lying: thou ſaiſt that my expoſitiou is that the eye there intended, is the Miniſter, I anſwer, ſo it is? But thou ſaiſt, I ſay, if he be blinde, all the Annabaptiſts are blinde alſo, whereas I ſay no ſuch thing: but if he be an hereticall wicked
+<pb facs="tcp:159165:5"/>man, and they walk by his light, they namely, every man and woman of that body walking by the light of their wicked eye or Miniſter, which is darknes, they namely, all the body or Church will be full of darknes, Mat. 6.23. and except they obey God in plucking out this wicked eye, they are not his true Diſciples, but ſeeming ſo, and ſo they being blinde, are led by their blinde eye, or Miniſter, till <hi>both fall into the ditch,</hi> namely Hell: Again, to leave many of thy ignorant fooliſh erationall reaſonings, becauſe anſwering a fool accor<g ref="char:EOLhyphen"/>ding to all his fooliſhneſſe were to be like him; which were to make my book tedious, as thine is, but now another palpable lye, as the thief crying ſtop thief, thou fathereſt upon me, as any that will be pleaſed to read my book, called the offending eye, hand and foot, which they may have for a penny, being that which thou oppoſeſt, may ſee. But to returne to another lye of thine, that it ſeemes cannot refrain lying thou ſaiſt, I flatly contradict Chriſt, ſaying, that I ſay, that the taking away of corruptions; wounds the man, which is the expoſition of thy blinde guides whom thou ſo adoreſt, and that the reader may know thy lying and falſehood; I will quote the pages in my book which thou oppoſeſt: this thy laſt lie may be found in pag. 21. of my book called <hi>The offending eye, hand and foot:</hi> Again, thou askeſt how I will conſter the two hands, two feet, or two eyes of the viſible bedy of Chriſt, for that is my term, not myſticall as thou falſely affirmeſt, thus I anſwer that it is Chriſts compa<g ref="char:EOLhyphen"/>riſon taken from a naturall body that hath but two of each of thoſe members, and thefore he ſpeakes ſo of them in the name of 2 of each of thoſe members, but you ſee in civill bodies politique, as in this City there is every yeere a new hand of power, nomely, a L. Major, ſo alwaies in bodies politicke, either ſpirituall or temporall, though many be cut off by death or otherwiſe, yet there are more to come in their places by order of the ſurviving or living mem<g ref="char:EOLhyphen"/>bers: but poore ſoule thou having not received the love of the tryth; but re<g ref="char:EOLhyphen"/>jected it, Chriſts words are given to thee yet in parables, that hearing thou underſtandeſt not, and ſeeing thou perceiveſt not; the Lord open thy ſpirituall eyes and eares, and give thee unnerſtanding what his Spirituall body is; and make thee a true ſpirituall member thereof, for his glory and thy comfort.</p>
+            <p>After this thou falſely taxeſt me to ſay that your Miniſters have no faith, which I deny, but do ſay they are not faithfull Miniſters, by vertue of any thing they had from the unpurged fountaines of the Univerſities. Then you come to prove yours the Miniſters of Chriſt, and you begin to ſhew that he recei<g ref="char:EOLhyphen"/>ved his miniſtery of his Father. And the Apeſtles delivered what they received of Chriſt in his power and way, which we grant, and them we own for his Miniſtrs, but as the Devill ſaid, <hi>Ieſus we know,</hi> and <hi>Paul we know, but who are ye,</hi> ſo Chriſt we acknowledge, and the Apoſtles we acknoſhledge; but who are your Miniſters, if you or they can prove themſelves the Miniſters of Chriſt, we will thankfully hear and joyfully ebrace them. Again, you ſay, if your Miniſters build their doctrines upon the Apoſtles and Prophets, with<g ref="char:EOLhyphen"/>out addition or detraction: the Goſpell will remain in its integrity. Alaſſe ſilly creature can any thing deſtroy the integritie of the Gaſpel. Wherefore break off thy blaſphemies, and intreat God with <hi>Simon Magus;</hi> if it be poſ<g ref="char:EOLhyphen"/>ſible, the thoughts of thy heart may be forgiven thee, which my ſoul humbly entreats the Lord to do for thee, for his glory and thy comfort. Farewell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
